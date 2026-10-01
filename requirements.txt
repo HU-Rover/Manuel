@@ -1,0 +1,15 @@
+# Core Dependencies
+numpy
+scipy
+
+# Computer Vision
+opencv-python
+
+# Serial/Bluetooth Communication
+pyserial
+
+# Input Control (Keyboard/Mouse)
+pynput
+
+# Visualization
+matplotlib
