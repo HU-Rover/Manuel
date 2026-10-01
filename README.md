@@ -45,6 +45,7 @@ Navigate to the workspace root and install dependencies using `rosdep`:
 ```bash
 cd ~/rover_ws
 rosdep install --from-paths src --ignore-src -r -y
+pip install -r ./requirements.txt
 ```
 
 ### 4. Build the Workspace
