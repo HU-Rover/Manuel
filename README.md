@@ -35,8 +35,7 @@ cd ~/rover_ws/src
 ### 2. Clone the Repository
 
 ```bash
-git clone <YOUR_REPO_URL> .
-# Note: The `.` ensures files are placed directly in the `src` folder
+git clone https://github.com/HU-Rover/Manuel.git
 ```
 
 ### 3. Install Dependencies
